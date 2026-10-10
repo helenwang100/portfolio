@@ -58,35 +58,6 @@ function FunProjects() {
           </div>
         </div>
       </section>
-
-      <section id="badger-news-mobile-app">
-        <div className="projects-section">
-          <div className="projects-text">
-            <h2>Badger News Mobile App</h2>
-            <div className="projects-layout">
-              <img className="projects-photo" src={leo} alt="Helen Wang" />
-              <ul className="projects-content">
-                <li>
-                  Developed a cross-platform mobile news application using
-                  JavaScript, React Native, and Expo.
-                </li>
-                <li>
-                  Added tab and stack navigation with React Navigation to
-                  support article browning and detailed views.
-                </li>
-                <li>
-                  Fetched and displayed news data from REST APIs, including
-                  asynchronous loading states.
-                </li>
-                <li>
-                  Built a preference-based filtering system using Context API,
-                  enabling users to customize content dynamically.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
     </>
   );
 }
