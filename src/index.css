@@ -1,0 +1,59 @@
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background-color: #ffe4ef;
+}
+
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 40px;
+  text-align: left;
+  border: none;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+
+  --sans: "Comic Sans MS", cursive;
+  --heading: "Comic Sans MS", cursive;
+}
+
+body,
+#root,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+button,
+input,
+textarea,
+select,
+label {
+  font-family: "Comic Sans MS", cursive;
+  margin: 0;
+}
+
+h2,
+p {
+  padding: 0;
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 1.68px;
+  margin: 0;
+  color: rgb(235, 95, 135);
+}
+
+h2 {
+  font-size: 43px;
+  margin-bottom: 20px;
+  color: rgb(235, 95, 135);
+}
