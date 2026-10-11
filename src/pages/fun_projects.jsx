@@ -37,7 +37,7 @@ function FunProjects() {
       <section id="badgerbuddies-adoption-web-app">
         <div className="projects-section">
           <div className="projects-text">
-            <h2>BadgerBuddies Adoption Web App</h2>
+            <h2>Creating GIFs</h2>
             <div className="projects-layout">
               <iframe
                 src="https://giphy.com/embed/PZYqyo1OaPpJcyuoen"
