@@ -34,7 +34,7 @@ function FunProjects() {
         </div>
       </section>
 
-      <section id="badgerbuddies-adoption-web-app">
+      <section id="creating-gifs">
         <div className="projects-section">
           <div className="projects-text">
             <h2>Creating GIFs</h2>

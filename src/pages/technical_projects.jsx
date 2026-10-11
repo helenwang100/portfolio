@@ -82,7 +82,7 @@ function TechnicalProjects() {
             <h2>Badger News Mobile App</h2>
             <div className="projects-layout">
               <img className="projects-photo" src={photo} alt="Helen Wang" />
-              <ul className="projects-content">
+              <ul className="tech-projects-content">
                 <li>
                   Developed a cross-platform mobile news application using
                   JavaScript, React Native, and Expo.
