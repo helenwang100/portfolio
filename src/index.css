@@ -17,8 +17,8 @@ body {
   flex-direction: column;
   box-sizing: border-box;
 
-  --sans: "Comic Sans MS", cursive;
-  --heading: "Comic Sans MS", cursive;
+  --sans: "Bradley Hand", sans-serif;
+  --heading: "Bradley Hand", sans-serif;
 }
 
 body,
@@ -36,7 +36,7 @@ input,
 textarea,
 select,
 label {
-  font-family: "Comic Sans MS", cursive;
+  font-family: "Bradley Hand", sans-serif;
   margin: 0;
 }
 
