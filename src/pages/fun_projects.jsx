@@ -15,7 +15,6 @@ function FunProjects() {
               <a
                 href={leo}
                 target="_blank"
-                rel="noopener noreferrer"
               >
                 <img
                 className="projects-photo"

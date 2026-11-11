@@ -4,8 +4,6 @@ import databaseSearch from "../assets/database-search.png";
 import DropDownButton from "../dropdown_button";
 
 function TechnicalProjects() {
-
-
   return (
     <>
       <DropDownButton />
@@ -22,8 +20,16 @@ function TechnicalProjects() {
               />
               <ul className="tech-projects-content">
                 <li>
-                  Redesigned the UW–Madison Database Search website using
-                  contextual inquiry and usability testing as a team.
+                  Redesigned the{" "}
+                  <a
+                    href="https://www.wisc.edu"
+                    target="_blank"
+                    style={{ color: "#eb5f87" }}
+                  >
+                    UW–Madison Database Search
+                  </a>{" "}
+                  website using contextual inquiry and usability testing as a
+                  team.
                 </li>
                 <li>
                   Utilized bullseye and affinity diagramming to decide changes
