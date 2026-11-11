@@ -22,7 +22,7 @@ function TechnicalProjects() {
                 <li>
                   Redesigned the{" "}
                   <a
-                    href="https://www.wisc.edu"
+                    href="https://drive.google.com/drive/folders/1mhHPJrAR-6tLXf-3QVRYVBWLPDP_PxZQ?usp=sharing"
                     target="_blank"
                     style={{ color: "#eb5f87" }}
                   >
